@@ -1,4 +1,4 @@
-const API_KEY = import.meta.env.VITE_OMDB_KEY;
+const API_KEY = "95bbd2d6";
 const API_URL = "https://www.omdbapi.com/";
 
 const input = document.querySelector("#searchInput");
